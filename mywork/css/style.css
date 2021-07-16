@@ -1,0 +1,24 @@
+h2 {
+    color: blue;
+}
+h1{
+    background-color: blueviolet;
+}
+
+.tag{
+    color: brown;
+}
+
+body {
+    color: lightblue;
+    background-color: lightcyan;
+    border:groove;
+}
+
+h3 {
+    font-size: small;
+}
+p {
+    text-align: center;
+    text-emphasis-color: pink;
+}
